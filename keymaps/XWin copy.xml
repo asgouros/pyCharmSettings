@@ -4,11 +4,6 @@
   <action id="Arrangement.Rule.Group.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
-  <action id="Back">
-    <keyboard-shortcut first-keystroke="ctrl alt left" />
-    <mouse-shortcut keystroke="button4" />
-    <keyboard-shortcut first-keystroke="ctrl alt comma" />
-  </action>
   <action id="CallHierarchy" />
   <action id="ChangesView.Move" />
   <action id="ClassNameCompletion" />
@@ -32,6 +27,10 @@
   <action id="EditorMatchBrace" />
   <action id="EditorSelectWord" />
   <action id="EditorUnSelectWord" />
+  <action id="EditorUnindentSelection">
+    <keyboard-shortcut first-keystroke="shift tab" />
+    <keyboard-shortcut first-keystroke="ctrl alt comma" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
     <mouse-shortcut keystroke="button5" />
