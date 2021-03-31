@@ -7,4 +7,8 @@
     <option name="FONT_SIZE" value="12" />
     <option name="LINE_SPACING" value="1.1" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
 </application>
