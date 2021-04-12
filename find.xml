@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="tmv4-src" />
+    <option name="defaultScopeName" value="tmv4-src" />
+    <option name="SEARCH_SCOPE" value="tmv4-src" />
   </component>
 </application>
