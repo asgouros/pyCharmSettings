@@ -21,6 +21,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt space" />
   </action>
   <action id="CollapseBlock" />
+  <action id="CopyElement" />
   <action id="CopyPathFromRepositoryRootProvider">
     <keyboard-shortcut first-keystroke="shift ctrl alt c" />
   </action>
@@ -58,6 +59,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl n" />
     <keyboard-shortcut first-keystroke="shift ctrl r" />
   </action>
+  <action id="Graph.RouteEdges" />
   <action id="IntroduceField" />
   <action id="MethodDown" />
   <action id="MethodUp" />
@@ -79,6 +81,10 @@
   </action>
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="ctrl alt h" />
+  </action>
+  <action id="Rerun">
+    <keyboard-shortcut first-keystroke="ctrl f5" />
+    <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="ShowContent" />
   <action id="ShowFilterPopup" />
