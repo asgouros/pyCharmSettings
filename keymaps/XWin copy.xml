@@ -25,7 +25,9 @@
   <action id="CopyPathFromRepositoryRootProvider">
     <keyboard-shortcut first-keystroke="shift ctrl alt c" />
   </action>
-  <action id="CopyReference" />
+  <action id="CopyReference">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
   <action id="Debugger.AddToWatch">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
