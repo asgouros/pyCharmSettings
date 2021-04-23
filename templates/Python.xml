@@ -4,4 +4,9 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="@nu" value="@not_unittest" description="not-unit-test decorator" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
