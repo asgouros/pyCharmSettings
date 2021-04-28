@@ -9,7 +9,7 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="prr" value="print(repr($VAR$))" description="Print-repr" toReformat="false" toShortenFQNames="true">
+  <template name="prr" value="print('$VAR$', repr($VAR$))" description="Print-repr" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
