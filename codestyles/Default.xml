@@ -1,4 +1,7 @@
 <code_scheme name="Default" version="173">
+  <Python>
+    <option name="SPACE_BEFORE_BACKSLASH" value="false" />
+  </Python>
   <codeStyleSettings language="Python">
     <option name="RIGHT_MARGIN" value="79" />
     <option name="WRAP_ON_TYPING" value="0" />
