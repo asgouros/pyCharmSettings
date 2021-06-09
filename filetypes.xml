@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="md" type="AUTO_DETECTED" />
       <mapping pattern="test.py" type="AUTO_DETECTED" />
+      <mapping ext="hcl" type="PLAIN_TEXT" />
       <mapping pattern="exceptions.py" type="Python" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping pattern=".env.*" approved="true" type="Env File" />
