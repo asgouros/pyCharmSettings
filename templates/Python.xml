@@ -20,7 +20,7 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="ppr" value="from pprint import pprint; print('--------='); pprint.pp($VAR$)" description="pretty-print" toReformat="false" toShortenFQNames="true">
+  <template name="ppr" value="from pprint import pprint; print('--------&lt;&gt;:'); pprint($VAR$)" description="pretty-print" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
