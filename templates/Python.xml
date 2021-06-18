@@ -20,7 +20,7 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="ppr" value="from pprint import pformat&#10;print('\n---{1}:\n{0}\n'.format(&#10;    pformat($VAR$, sort_dicts=False), '$VAR$'))&#10;" description="pretty-print" toReformat="false" toShortenFQNames="true">
+  <template name="ppr" value="from pprint import pformat&#10;print('\n---{1}:\n{0}\n'.format(&#10;    pformat($VAR$), '$VAR$'))&#10;" description="pretty-print" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
