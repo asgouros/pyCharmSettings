@@ -1,6 +1,6 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="tmv4@localhost" uuid="1dbf31fd-517a-4253-b393-b9a277546687">
+    <data-source source="LOCAL" name="PostgreSQL - tmv4@localhost" uuid="1dbf31fd-517a-4253-b393-b9a277546687">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
