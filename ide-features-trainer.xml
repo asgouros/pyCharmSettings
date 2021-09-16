@@ -11,6 +11,7 @@
         <entry key="code editing tips and tricks" value="NOT_PASSED" />
         <entry key="codeassistance.codeformatting" value="NOT_PASSED" />
         <entry key="codeassistance.editorcodingassistance" value="NOT_PASSED" />
+        <entry key="codeassistance.localhistory" value="NOT_PASSED" />
         <entry key="codeassistance.parameterinfo" value="NOT_PASSED" />
         <entry key="codeassistance.quickpopups" value="NOT_PASSED" />
         <entry key="collapse" value="PASSED" />
