@@ -118,6 +118,7 @@
     <option name="ignoredIdentifiers">
       <list>
         <option value="random.random.shuffle" />
+        <option value="object.tearDown" />
       </list>
     </option>
   </inspection_tool>
