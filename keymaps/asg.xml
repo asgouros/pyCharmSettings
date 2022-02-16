@@ -126,6 +126,12 @@
   <action id="TableResult.GrowSelection" />
   <action id="TableResult.ShrinkSelection" />
   <action id="TodoViewGroupByFlattenPackage" />
+  <action id="Tool_External Tools_Black">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="Tool_External Tools_Black current file">
+    <keyboard-shortcut first-keystroke="ctrl alt x" />
+  </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="UsageGrouping.FileStructure" />
