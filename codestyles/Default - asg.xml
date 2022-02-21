@@ -1,4 +1,5 @@
 <code_scheme name="Default - asg" version="173">
+  <option name="RIGHT_MARGIN" value="88" />
   <Python>
     <option name="SPACE_BEFORE_BACKSLASH" value="false" />
     <option name="OPTIMIZE_IMPORTS_JOIN_FROM_IMPORTS_WITH_SAME_SOURCE" value="true" />
@@ -12,6 +13,9 @@
     <option name="SUBQUERY_CONTENT" value="3" />
     <option name="SUBQUERY_CLOSING" value="2" />
   </SqlCodeStyleSettings>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
   <codeStyleSettings language="Python">
     <option name="RIGHT_MARGIN" value="88" />
     <option name="WRAP_LONG_LINES" value="true" />
