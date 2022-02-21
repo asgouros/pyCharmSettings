@@ -1,6 +1,7 @@
 <code_scheme name="Default - asg" version="173">
   <Python>
     <option name="SPACE_BEFORE_BACKSLASH" value="false" />
+    <option name="OPTIMIZE_IMPORTS_JOIN_FROM_IMPORTS_WITH_SAME_SOURCE" value="true" />
   </Python>
   <SqlCodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="true" />
@@ -13,6 +14,7 @@
   </SqlCodeStyleSettings>
   <codeStyleSettings language="Python">
     <option name="RIGHT_MARGIN" value="88" />
+    <option name="WRAP_LONG_LINES" value="true" />
     <option name="WRAP_ON_TYPING" value="0" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
