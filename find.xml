@@ -12,5 +12,6 @@
     <mask>*.html</mask>
     <mask>main.py</mask>
     <mask>*.py</mask>
+    <mask>*.</mask>
   </component>
 </application>
