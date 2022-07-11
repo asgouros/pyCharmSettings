@@ -129,6 +129,7 @@
       <list>
         <option value="random.random.shuffle" />
         <option value="object.tearDown" />
+        <option value="txresources.tests.test_services.ApplicationService" />
       </list>
     </option>
   </inspection_tool>
