@@ -13,7 +13,7 @@
     <mask>*.js</mask>
     <mask>*.py</mask>
     <mask>test_*.py</mask>
-    <mask>tasks.py</mask>
     <mask>*.html</mask>
+    <mask>tasks.py</mask>
   </component>
 </application>
