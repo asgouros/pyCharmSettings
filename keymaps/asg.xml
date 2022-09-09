@@ -62,13 +62,13 @@
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
-  <action id="FixDocComment">
-    <keyboard-shortcut first-keystroke="ctrl alt c" />
-  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="shift ctrl period" />
+  </action>
+  <action id="Git.ResolveConflicts">
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
   </action>
   <action id="GotoAction" />
   <action id="GotoFile">
