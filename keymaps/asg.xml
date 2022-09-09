@@ -42,9 +42,11 @@
   </action>
   <action id="DumpLookupElementWeights" />
   <action id="EditorContextInfo" />
+  <action id="EditorDecreaseFontSizeGlobal" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
+  <action id="EditorIncreaseFontSizeGlobal" />
   <action id="EditorMatchBrace" />
   <action id="EditorSelectWord" />
   <action id="EditorUnSelectWord" />
