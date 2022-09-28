@@ -15,7 +15,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="91">
+        <list size="92">
           <item index="0" class="java.lang.String" itemvalue="polyleven" />
           <item index="1" class="java.lang.String" itemvalue="before_after" />
           <item index="2" class="java.lang.String" itemvalue="PyYAML" />
@@ -107,6 +107,7 @@
           <item index="88" class="java.lang.String" itemvalue="pudb" />
           <item index="89" class="java.lang.String" itemvalue="ipdb" />
           <item index="90" class="java.lang.String" itemvalue="regex" />
+          <item index="91" class="java.lang.String" itemvalue="openapi" />
         </list>
       </value>
     </option>
