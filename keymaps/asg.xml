@@ -19,6 +19,7 @@
   </action>
   <action id="CallHierarchy" />
   <action id="ChangesView.Move" />
+  <action id="ChangesView.Revert" />
   <action id="ChangesView.ShelveSilently" />
   <action id="ClassNameCompletion" />
   <action id="CloseContent">
@@ -139,6 +140,7 @@
   <action id="UsageGrouping.FileStructure" />
   <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.MoveChangedLinesToChangelist" />
+  <action id="Vcs.RollbackChangedLines" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
