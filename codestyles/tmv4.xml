@@ -3,6 +3,9 @@
     <option name="SPACE_BEFORE_BACKSLASH" value="false" />
   </Python>
   <SqlCodeStyleSettings version="6">
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="BUILT_IN_CASE" value="2" />
     <option name="FROM_WRAP_ON" value="true" />
     <option name="WHERE_EL_LINE" value="101" />
   </SqlCodeStyleSettings>
