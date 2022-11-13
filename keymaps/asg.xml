@@ -31,6 +31,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt space" />
   </action>
   <action id="CollapseBlock" />
+  <action id="Console.Open" />
   <action id="CopyElement" />
   <action id="CopyPathFromRepositoryRootProvider">
     <keyboard-shortcut first-keystroke="shift ctrl alt c" />
@@ -41,6 +42,9 @@
   <action id="DatabaseView.Ddl.AlterObject">
     <keyboard-shortcut first-keystroke="ctrl f6" />
     <keyboard-shortcut first-keystroke="ctrl alt q" />
+  </action>
+  <action id="DebugClass">
+    <keyboard-shortcut first-keystroke="shift ctrl f10" />
   </action>
   <action id="Debugger.AddToWatch">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
@@ -86,6 +90,7 @@
   <action id="Graph.RouteEdges" />
   <action id="IntroduceConstant" />
   <action id="IntroduceField" />
+  <action id="Jdbc.OpenConsole.Any" />
   <action id="MethodDown" />
   <action id="MethodHierarchy" />
   <action id="MethodHierarchy.BaseOnThisMethod" />
@@ -122,6 +127,8 @@
     <keyboard-shortcut first-keystroke="ctrl f5" />
     <keyboard-shortcut first-keystroke="f5" />
   </action>
+  <action id="RunClass" />
+  <action id="RunDashboard.Run" />
   <action id="ShowContent" />
   <action id="ShowFilterPopup" />
   <action id="ShowSearchHistory" />
@@ -151,4 +158,5 @@
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
+  <action id="runShellFileAction" />
 </keymap>
