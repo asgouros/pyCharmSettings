@@ -10,7 +10,6 @@
       <mapping pattern="exceptions.py" type="Python" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="tmx" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".dockerignore" approved="true" type="Docker File" />
       <removed_mapping pattern=".env" approved="true" type="Env File" />
       <removed_mapping pattern=".env.*" approved="true" type="Env File" />
